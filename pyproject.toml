@@ -1,0 +1,11 @@
+[project]
+name = "aoc2018"
+version = "0.1.0"
+description = "AOC 2018"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "numpy",
+  "ipykernel",
+  "networkx"
+]
